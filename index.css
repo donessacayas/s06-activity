@@ -77,6 +77,26 @@ nav .nav, nav .nav-logo {
 	min-height: 180px;
 }
 
+#pre-footer {
+	background-color: #002540;
+	color: white;
+	padding: 2rem;
+}
+
+#pre-footer h3 {
+	font-weight: bold;
+	margin-bottom: 1rem;
+}
+
+#pre-footer div {
+	align-content: center;
+	display: inline-block;
+	vertical-align: text-top;
+	width: 20%;
+	padding: 1rem;
+}
+
+
 footer {
 	padding: 1rem;
 	text-align: center;
