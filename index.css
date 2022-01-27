@@ -80,7 +80,8 @@ nav .nav, nav .nav-logo {
 #pre-footer {
 	background-color: #002540;
 	color: white;
-	padding: 2rem;
+	padding: 2rem 10%;
+	text-align: center;
 }
 
 #pre-footer h3 {
@@ -89,9 +90,9 @@ nav .nav, nav .nav-logo {
 }
 
 #pre-footer div {
-	align-content: center;
 	display: inline-block;
 	vertical-align: text-top;
+	text-align: justify;
 	width: 20%;
 	padding: 1rem;
 }
